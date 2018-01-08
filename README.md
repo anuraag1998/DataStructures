@@ -1,9 +1,9 @@
-# DataStructures
-1.RedBlackTree
-2.Binomial Heap
-3.Binary Heap
-4.Disjoint Set
+##DataStructures
+* RedBlackTree
+* Binomial Heap
+* Binary Heap
+* Disjoint Set
 
-#Algorithms
-1.Prims Algorithm
-2.Krushkal Algorithm
+##Algorithms
+* Prims Algorithm
+* Krushkal Algorithm
