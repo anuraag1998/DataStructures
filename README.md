@@ -1,9 +1,12 @@
-##DataStructures
+DataStructures
+==============
+
 * RedBlackTree
 * Binomial Heap
 * Binary Heap
 * Disjoint Set
 
-##Algorithms
+Algorithms
+==========
 * Prims Algorithm
 * Krushkal Algorithm
